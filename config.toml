@@ -1,0 +1,9 @@
+baseURL = 'http://enguehard.tf/'
+languageCode = 'fr'
+title = "Joseph Enguehard"
+author = "Joseph Enguehard"
+copyright = "Copyright © 2020, Joseph Enguehard."
+theme = "hugo-bearblog"
+description = "Joseph Enguehard"
+
+enableRobotsTXT = true
